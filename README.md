@@ -12,3 +12,6 @@
 3. run `npm run start`
 4. open terminal in root folder
 5. run `uvicorn main:app --reload`
+
+## Sample:
+![](1.png)
